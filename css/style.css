@@ -1238,7 +1238,7 @@ h3.my-profession
     .home {
         width: 100%;
         height: 100vh;
-        background: rgba(255, 255, 255, 0.6)url("../images/bg.jpg") top right no-repeat;
+        background: rgba(255, 255, 255, 0.6)url("../img/bg.jpg") top right no-repeat;
         background-size: cover;
         position: relative;
         overflow: hidden;
@@ -1254,22 +1254,7 @@ h3.my-profession
     right: 0;
     }
 
-      /* .home-info p {
-        margin-bottom: 70px;
-        padding: 10px;
-        border-radius: 30px;
-        font-size: 20px;
-        opacity: 1;
-        background-image: linear-gradient(
-            -225deg,
-            #a790a7 0%,
-            #7612e0 29%,
-            #ff1361 67%,
-            #fff800 100%
-          );
-        color: #ffffff;
-    }
-    */
+      
 
 }
 @media (max-width: 767px)
